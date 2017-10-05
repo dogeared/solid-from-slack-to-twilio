@@ -1,6 +1,6 @@
 ## SOLID in Action: From Slack to Twilio
 
-Resources:
+### Resources:
 
 * Presentation - [SOLIDInAction_LRTF2017.pdf](SOLIDInAction_LRTF2017.pdf)
 * Spring Boot Project - [Magic with Slack and Twilio](https://github.com/dogeared/magic-with-slack-and-twilio)
