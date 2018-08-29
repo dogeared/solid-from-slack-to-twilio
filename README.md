@@ -2,7 +2,7 @@
 
 ### Resources:
 
-* Presentation - [SOLIDInAction_LRTF2017.pdf](SOLIDInAction_LRTF2017.pdf)
+* Presentation - [solid-from-slack-to-twilio.pdf](solid-from-slack-to-twilio.pdf)
 * Spring Boot Project - [Magic with Slack and Twilio](https://github.com/dogeared/magic-with-slack-and-twilio)
 * https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
 * http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod
